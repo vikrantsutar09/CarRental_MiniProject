@@ -1,0 +1,29 @@
+/*Footer*/
+
+.admin-dark-footer {
+    background-color: black;
+    color: #ffffff;
+    padding: 15px 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    box-shadow: 0 -1px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+.admin-dark-footer .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/*Cars*/
+    .form-switch .form-check-input {
+      width: 3em;
+      height: 1.5em;
+    }
+/*Cars*/
+
+
+/*Footer*/
